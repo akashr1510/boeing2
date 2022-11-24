@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebApplication1/.vs/WebApplication1
+/WebApplication1/obj/Debug
+/WebApplication1/obj/Release
+/.gitignore
+/.gitignore
+/.gitignore
+/.gitignore
+/.gitignore
